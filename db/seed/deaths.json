@@ -1,0 +1,652 @@
+[
+  {
+    "death_id": 40,
+    "death": "Bodyguards of Gus Fring",
+    "cause": "Multiple gunshots.",
+    "responsible": "Walter White",
+    "last_words": "What, you got a problem with stairs?",
+    "season": 4,
+    "episode": 13,
+    "number_of_deaths": 2
+  },
+  {
+    "death_id": 28,
+    "death": "Cartel Assassins",
+    "cause": "Shot in close range.",
+    "responsible": "Mike Ehrmantraut",
+    "last_words": "Unknown",
+    "season": 4,
+    "episode": 4,
+    "number_of_deaths": 2
+  },
+  {
+    "death_id": 23,
+    "death": "Rival Dealers",
+    "cause": "Ran over with a van, then shot in the head.",
+    "responsible": "Walter White",
+    "last_words": "Unknown",
+    "season": 3,
+    "episode": 12,
+    "number_of_deaths": 2
+  },
+  {
+    "death_id": 34,
+    "death": "Juarez Cartel members",
+    "cause": "Poisoned.",
+    "responsible": "Gustavo Fring",
+    "last_words": "Unknown",
+    "season": 4,
+    "episode": 10,
+    "number_of_deaths": 11
+  },
+  {
+    "death_id": 20,
+    "death": "Juan Bolsa's bodyguards",
+    "cause": "Shot repeatedly.",
+    "responsible": "Mexican federales. (Gustavo Fring associated)",
+    "last_words": "Unknown",
+    "season": 3,
+    "episode": 8,
+    "number_of_deaths": 2
+  },
+  {
+    "death_id": 56,
+    "death": "Declan's men and his cook.",
+    "cause": "Gunshot.",
+    "responsible": "White Supremacist gang (Lydia Rodarte-Quayle)",
+    "last_words": "Unknown",
+    "season": 5,
+    "episode": 10,
+    "number_of_deaths": 9
+  },
+  {
+    "death_id": 61,
+    "death": "White Supremacist gang members",
+    "cause": "Shot by remote-activated machine gun.",
+    "responsible": "Walter White",
+    "last_words": "Unknown",
+    "season": 5,
+    "episode": 16,
+    "number_of_deaths": 6
+  },
+  {
+    "death_id": 13,
+    "death": "Mexican passengers",
+    "cause": "Shot in close proximity, left in truck that was set on fire.",
+    "responsible": "The Counsins",
+    "last_words": "Unknown",
+    "season": 3,
+    "episode": 1,
+    "number_of_deaths": 10
+  },
+  {
+    "death_id": 16,
+    "death": "Deputy Bobby Kee",
+    "cause": "Struck in the back with an axe.",
+    "responsible": "Marco Salamanca (The Counsins)",
+    "last_words": "On your knees or I'll fire!",
+    "season": 3,
+    "episode": 6,
+    "number_of_deaths": 1
+  },
+  {
+    "death_id": 17,
+    "death": "Unnamed Man",
+    "cause": "Shot in the chest and head.",
+    "responsible": "Marco Salamanca (The Counsins)",
+    "last_words": "Jesus.",
+    "season": 3,
+    "episode": 7,
+    "number_of_deaths": 1
+  },
+  {
+    "death_id": 25,
+    "death": "Gale Boetticher",
+    "cause": "Shot in the head.",
+    "responsible": "Jesse Pinkman (On orders from Walter White)",
+    "last_words": "You don't have to do this.",
+    "season": 3,
+    "episode": 13,
+    "number_of_deaths": 1
+  },
+  {
+    "death_id": 18,
+    "death": "Marco Salamanca",
+    "cause": "Shot in the head.",
+    "responsible": "Hank Schrader (Henry Schrader, Gustavo Fring associated)",
+    "last_words": "Too easy",
+    "season": 3,
+    "episode": 7,
+    "number_of_deaths": 1
+  },
+  {
+    "death_id": 30,
+    "death": "Los Pollos guards",
+    "cause": "Suffocated by exhaust in the back of a truck.",
+    "responsible": "Juarez Cartel",
+    "last_words": "Unknown",
+    "season": 4,
+    "episode": 6,
+    "number_of_deaths": 2
+  },
+  {
+    "death_id": 24,
+    "death": "Cartel Assassins",
+    "cause": "Shot repeatedly.",
+    "responsible": "Mike Erhmantraut (Gustavo Fring associated)",
+    "last_words": "Unknown",
+    "season": 3,
+    "episode": 13,
+    "number_of_deaths": 4
+  },
+  {
+    "death_id": 38,
+    "death": "Tyrus Kitt",
+    "cause": "Blown up by pipe bomb detonated by a wheel-chair bell.",
+    "responsible": "Hector Salamanca and Walter White",
+    "last_words": "It's clear",
+    "season": 4,
+    "episode": 13,
+    "number_of_deaths": 1
+  },
+  {
+    "death_id": 36,
+    "death": "Joaquin Salamanca",
+    "cause": "Multiple gunshots.",
+    "responsible": "Jesse Pinkman",
+    "last_words": "Unknwon",
+    "season": 4,
+    "episode": 10,
+    "number_of_deaths": 1
+  },
+  {
+    "death_id": 43,
+    "death": "Chris Mara",
+    "cause": "Shot repeatedly in the chest.",
+    "responsible": "Mike Ehrmantraut",
+    "last_words": "Listen, Mike",
+    "season": 5,
+    "episode": 1,
+    "number_of_deaths": 1
+  },
+  {
+    "death_id": 39,
+    "death": "Gustavo Fring",
+    "cause": "Blown up by pipe bomb detonated by a wheel-chair bell. Also lost the right side of his face.",
+    "responsible": "Hector Salamanca and Walter White",
+    "last_words": "Hall!",
+    "season": 4,
+    "episode": 13,
+    "number_of_deaths": 1
+  },
+  {
+    "death_id": 41,
+    "death": "Peter Schuler",
+    "cause": "Suicide using a defibrillator.",
+    "responsible": "Himself",
+    "last_words": "Yes, Ms. Tromel.",
+    "season": 5,
+    "episode": 1,
+    "number_of_deaths": 1
+  },
+  {
+    "death_id": 42,
+    "death": "Duane Chow",
+    "cause": "Shot in the head.",
+    "responsible": "Chris Mara (Lydia Rodart-Quayle associated)",
+    "last_words": "Unknown",
+    "season": 5,
+    "episode": 1,
+    "number_of_deaths": 1
+  },
+  {
+    "death_id": 11,
+    "death": "Jane Margolis",
+    "cause": "Heroin overdose. Asphyxiated on her own vomit.",
+    "responsible": "Herself and Walter White",
+    "last_words": "Unknown",
+    "season": 2,
+    "episode": 12,
+    "number_of_deaths": 1
+  },
+  {
+    "death_id": 22,
+    "death": "Tomas Cantillo",
+    "cause": "Unknown (presumably shot).",
+    "responsible": "Rival Dealers",
+    "last_words": "Unknown",
+    "season": 3,
+    "episode": 12,
+    "number_of_deaths": 1
+  },
+  {
+    "death_id": 2,
+    "death": "Krazy-8",
+    "cause": "Strangled with a bike lock.",
+    "responsible": "Walter White",
+    "last_words": "Unlock me, Walter",
+    "season": 1,
+    "episode": 3,
+    "number_of_deaths": 1
+  },
+  {
+    "death_id": 27,
+    "death": "Los Pollos driver",
+    "cause": "Shot in close range.",
+    "responsible": "Juarez Cartel",
+    "last_words": "No, no, no!",
+    "season": 4,
+    "episode": 4,
+    "number_of_deaths": 1
+  },
+  {
+    "death_id": 32,
+    "death": "Nick",
+    "cause": "Shot by a sniper rifle.",
+    "responsible": "Gaff",
+    "last_words": "Unknown",
+    "season": 4,
+    "episode": 9,
+    "number_of_deaths": 1
+  },
+  {
+    "death_id": 6,
+    "death": "Convenience Clerk",
+    "cause": "Stabbed during ATM theft.",
+    "responsible": "Spooge",
+    "last_words": "Unknown",
+    "season": 2,
+    "episode": 6,
+    "number_of_deaths": 1
+  },
+  {
+    "death_id": 7,
+    "death": "Spooge",
+    "cause": "Head crushed by ATM.",
+    "responsible": "Spooge's Lady",
+    "last_words": "Skank!",
+    "season": 2,
+    "episode": 6,
+    "number_of_deaths": 1
+  },
+  {
+    "death_id": 29,
+    "death": "Los Pollos driver",
+    "cause": "Multiple gun shots.",
+    "responsible": "Juarez Cartel",
+    "last_words": "No, no, no, no, no!",
+    "season": 4,
+    "episode": 6,
+    "number_of_deaths": 1
+  },
+  {
+    "death_id": 15,
+    "death": "Mrs. Peyketewa",
+    "cause": "Unknown cause of death.",
+    "responsible": "The Counsins",
+    "last_words": "Unknown",
+    "season": 3,
+    "episode": 6,
+    "number_of_deaths": 1
+  },
+  {
+    "death_id": 3,
+    "death": "No-Doze",
+    "cause": "Beaten to death.",
+    "responsible": "Tuco Salamanca",
+    "last_words": "No Tuco, I'm just.. I'm just saying.",
+    "season": 1,
+    "episode": 7,
+    "number_of_deaths": 1
+  },
+  {
+    "death_id": 8,
+    "death": "Tortuga",
+    "cause": "Decapitated.",
+    "responsible": "Marco Salamanca",
+    "last_words": "Thank you, boss.",
+    "season": 2,
+    "episode": 7,
+    "number_of_deaths": 1
+  },
+  {
+    "death_id": 9,
+    "death": "Unnamed DEA agent",
+    "cause": "Blown up by bomb in tortoise.",
+    "responsible": "The Cousins",
+    "last_words": "Unknown",
+    "season": 2,
+    "episode": 7,
+    "number_of_deaths": 1
+  },
+  {
+    "death_id": 33,
+    "death": "Don Eladio",
+    "cause": "Poisoned.",
+    "responsible": "Gustavo Fring",
+    "last_words": "¿Tú?",
+    "season": 4,
+    "episode": 10,
+    "number_of_deaths": 1
+  },
+  {
+    "death_id": 35,
+    "death": "Gaff",
+    "cause": "Garroted (Strangled by wire).",
+    "responsible": "Mike Ehrmantraut",
+    "last_words": "¡Salud!",
+    "season": 4,
+    "episode": 10,
+    "number_of_deaths": 1
+  },
+  {
+    "death_id": 31,
+    "death": "Max Arciniega",
+    "cause": "Shot in the head.",
+    "responsible": "Hector Salamanca",
+    "last_words": "I swear to God.",
+    "season": 4,
+    "episode": 8,
+    "number_of_deaths": 1
+  },
+  {
+    "death_id": 19,
+    "death": "Leonel Salamanca",
+    "cause": "Unknown poison in the hospital.",
+    "responsible": "Mike Ehrmantraut (Gustavo Fring associated)",
+    "last_words": "Finish him",
+    "season": 3,
+    "episode": 8,
+    "number_of_deaths": 1
+  },
+  {
+    "death_id": 21,
+    "death": "Juan Bolsa",
+    "cause": "Shot repeatedly.",
+    "responsible": "Mexican federales. (Gustavo Fring associated)",
+    "last_words": "What the hell is going on?",
+    "season": 3,
+    "episode": 8,
+    "number_of_deaths": 1
+  },
+  {
+    "death_id": 37,
+    "death": "Hector Salamanca",
+    "cause": "Blown up by pipe bomb detonated by a wheel-chair bell.",
+    "responsible": "Himself and Walter White",
+    "last_words": "*grunting",
+    "season": 4,
+    "episode": 13,
+    "number_of_deaths": 1
+  },
+  {
+    "death_id": 44,
+    "death": "Drew Sharp",
+    "cause": "Shot in the head.",
+    "responsible": "Todd Alquist",
+    "last_words": "Unknown",
+    "season": 5,
+    "episode": 5,
+    "number_of_deaths": 1
+  },
+  {
+    "death_id": 45,
+    "death": "Mike Ehrmantraut",
+    "cause": "Shot in the gut.",
+    "responsible": "Walter White",
+    "last_words": "Shut the fuck up and let me die in peace.",
+    "season": 5,
+    "episode": 7,
+    "number_of_deaths": 1
+  },
+  {
+    "death_id": 46,
+    "death": "Dan Wachsberger",
+    "cause": "Stabbed.",
+    "responsible": "Prison inmate, on orders from Jack Welker (contracted by Walter White)",
+    "last_words": "*screaming",
+    "season": 5,
+    "episode": 8,
+    "number_of_deaths": 1
+  },
+  {
+    "death_id": 47,
+    "death": "Ron Forenall",
+    "cause": "Stabbed.",
+    "responsible": "Prison inmate, on orders from Jack Welker (contracted by Walter White)",
+    "last_words": "Hey!",
+    "season": 5,
+    "episode": 8,
+    "number_of_deaths": 1
+  },
+  {
+    "death_id": 48,
+    "death": "Jack McGann",
+    "cause": "Stabbed.",
+    "responsible": "Prison inmate, on orders from Jack Welker (contracted by Walter White)",
+    "last_words": "Unknown",
+    "season": 5,
+    "episode": 8,
+    "number_of_deaths": 1
+  },
+  {
+    "death_id": 49,
+    "death": "Andrew Holt",
+    "cause": "Stabbed.",
+    "responsible": "Prison inmate, on orders from Jack Welker (contracted by Walter White)",
+    "last_words": "Unknown",
+    "season": 5,
+    "episode": 8,
+    "number_of_deaths": 1
+  },
+  {
+    "death_id": 50,
+    "death": "Anthony Perez",
+    "cause": "Stabbed.",
+    "responsible": "Prison inmate, on orders from Jack Welker (contracted by Walter White)",
+    "last_words": "Unknown",
+    "season": 5,
+    "episode": 8,
+    "number_of_deaths": 1
+  },
+  {
+    "death_id": 51,
+    "death": "Isaac Conley",
+    "cause": "Stabbed.",
+    "responsible": "Prison inmate, on orders from Jack Welker (contracted by Walter White)",
+    "last_words": "Unknown",
+    "season": 5,
+    "episode": 8,
+    "number_of_deaths": 1
+  },
+  {
+    "death_id": 52,
+    "death": "William Moniz",
+    "cause": "Stabbed.",
+    "responsible": "Prison inmate, on orders from Jack Welker (contracted by Walter White)",
+    "last_words": "Unknown",
+    "season": 5,
+    "episode": 8,
+    "number_of_deaths": 1
+  },
+  {
+    "death_id": 53,
+    "death": "Harris Bolvin",
+    "cause": "Stabbed.",
+    "responsible": "Prison inmate, on orders from Jack Welker (contracted by Walter White)",
+    "last_words": "Unknown",
+    "season": 5,
+    "episode": 8,
+    "number_of_deaths": 1
+  },
+  {
+    "death_id": 54,
+    "death": "Raymond Martinez",
+    "cause": "Stabbed.",
+    "responsible": "Prison inmate, on orders from Jack Welker (contracted by Walter White)",
+    "last_words": "Unknown",
+    "season": 5,
+    "episode": 8,
+    "number_of_deaths": 1
+  },
+  {
+    "death_id": 55,
+    "death": "Dennis Markowski",
+    "cause": "Set on fire.",
+    "responsible": "Prison inmate, on orders from Jack Welker (contracted by Walter White)",
+    "last_words": "Help me!",
+    "season": 5,
+    "episode": 8,
+    "number_of_deaths": 1
+  },
+  {
+    "death_id": 57,
+    "death": "Declan",
+    "cause": "Shot in the head.",
+    "responsible": "Jack Welker, on orders from Lydia Rodarte-Quayle.",
+    "last_words": "*grunting",
+    "season": 5,
+    "episode": 10,
+    "number_of_deaths": 1
+  },
+  {
+    "death_id": 58,
+    "death": "Steven Gomez",
+    "cause": "Shot several times.",
+    "responsible": "Jack Welker and the White Supremacist gang.",
+    "last_words": "You heard the man, put 'em down!",
+    "season": 5,
+    "episode": 14,
+    "number_of_deaths": 1
+  },
+  {
+    "death_id": 59,
+    "death": "Hank Schrader",
+    "cause": "Shot in the head.",
+    "responsible": "Jack Welker",
+    "last_words": "Do what you're gonna go",
+    "season": 5,
+    "episode": 14,
+    "number_of_deaths": 1
+  },
+  {
+    "death_id": 60,
+    "death": "Andrea Cantillo",
+    "cause": "Shot in the head",
+    "responsible": "Todd Alquist",
+    "last_words": "Where?",
+    "season": 5,
+    "episode": 15,
+    "number_of_deaths": 1
+  },
+  {
+    "death_id": 1,
+    "death": "Emilio Koyama",
+    "cause": "Poisoned by phosphine gas.",
+    "responsible": "Walter White",
+    "last_words": "**Cough",
+    "season": 1,
+    "episode": 1,
+    "number_of_deaths": 1
+  },
+  {
+    "death_id": 26,
+    "death": "Victor",
+    "cause": "Throat slit with a boxcutter.",
+    "responsible": "Gustavo Fring",
+    "last_words": "The steps never change, and I know the steps.",
+    "season": 4,
+    "episode": 1,
+    "number_of_deaths": 1
+  },
+  {
+    "death_id": 14,
+    "death": "Coyote driver",
+    "cause": "Shot in the head.",
+    "responsible": "Leonel Salamanca",
+    "last_words": "What the hell's going on in there?",
+    "season": 3,
+    "episode": 1,
+    "number_of_deaths": 1
+  },
+  {
+    "death_id": 4,
+    "death": "Gonzo",
+    "cause": "Crushed under car in junkyard.",
+    "responsible": "Accidental Death",
+    "last_words": "Unknown",
+    "season": 2,
+    "episode": 1,
+    "number_of_deaths": 1
+  },
+  {
+    "death_id": 10,
+    "death": "Combo",
+    "cause": "Shot in abdomen.",
+    "responsible": "Toman Cantillo",
+    "last_words": "What are you waiting for, go!",
+    "season": 2,
+    "episode": 11,
+    "number_of_deaths": 1
+  },
+  {
+    "death_id": 62,
+    "death": "Todd Alquist",
+    "cause": "Garroted (Strangled by wire).",
+    "responsible": "Jesse Pinkman",
+    "last_words": "Mr. White...",
+    "season": 5,
+    "episode": 16,
+    "number_of_deaths": 1
+  },
+  {
+    "death_id": 63,
+    "death": "Jack Welker",
+    "cause": "Shot in the head.",
+    "responsible": "Walter White",
+    "last_words": "If you pull that trigger, you'll never...",
+    "season": 5,
+    "episode": 16,
+    "number_of_deaths": 1
+  },
+  {
+    "death_id": 64,
+    "death": "Lydia Rodarte-Quayle",
+    "cause": "Poisoned with ricin.",
+    "responsible": "Walter White",
+    "last_words": "Oh my god.",
+    "season": 5,
+    "episode": 16,
+    "number_of_deaths": 1
+  },
+  {
+    "death_id": 65,
+    "death": "Walter White",
+    "cause": "Shot by remote-activated machine gun.",
+    "responsible": "Walter White",
+    "last_words": "Well... goodbye Lydia.",
+    "season": 5,
+    "episode": 16,
+    "number_of_deaths": 1
+  },
+  {
+    "death_id": 12,
+    "death": "Unnamed passengers on the Wayfarer 515 and JM 21 flights",
+    "cause": "Flights collided due to poor air traffic control.",
+    "responsible": "Donald Margolis, by extension of Walter White.",
+    "last_words": "Unknown",
+    "season": 2,
+    "episode": 13,
+    "number_of_deaths": 167
+  },
+  {
+    "death_id": 5,
+    "death": "Tuco Salamanca",
+    "cause": "Shot to the head.",
+    "responsible": "Hank Schrader (Henry Schrader)",
+    "last_words": "Tell me what you did, Walter!",
+    "season": 2,
+    "episode": 2,
+    "number_of_deaths": 1
+  }
+]
