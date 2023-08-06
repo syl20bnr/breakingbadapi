@@ -41,6 +41,7 @@ Here, the first `postgres` represents the user and the second stands for the pas
 3) Run the API server:
 
 ```
+npm run build
 npm run start
 ```
 
